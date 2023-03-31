@@ -1,0 +1,37 @@
+{
+    "en": {
+      "title": "Your Name - Portfolio",
+      "description": "Your portfolio showcasing your work and skills",
+      "aboutTitle": "About Me",
+      "aboutDescription": "I am a full-stack developer passionate about creating impactful solutions. My current obsession is: XYZ. My longest running obsession is: ABC.",
+      "portfolioTitle": "Portfolio",
+      "portfolioSubtitle": "Here are some projects I've worked on:",
+      "blogTitle": "Blog",
+      "blogSubtitle": "Latest articles:",
+      "workingPrinciplesTitle": "How I Can Bring You Value",
+      "workingPrinciplesSubtitle": "As a developer advocate, full stack developer, and freelance developer, I focus on:",
+      "principle1": "User-centered design",
+      "principle2": "Efficient and maintainable code",
+      "principle3": "Constantly learning and adapting",
+      "skillsTitle": "Technical Skills",
+      "skillsSubtitle": "Here are some technologies I've worked with:"
+    },
+    "es": {
+      "title": "Tu Nombre - Portafolio",
+      "description": "Tu portafolio mostrando tus trabajos y habilidades",
+      "aboutTitle": "Sobre mí",
+      "aboutDescription": "Soy un desarrollador full-stack apasionado por crear soluciones impactantes. Mi obsesión actual es: XYZ. Mi obsesión más duradera es: ABC.",
+      "portfolioTitle": "Portafolio",
+      "portfolioSubtitle": "Aquí hay algunos proyectos en los que he trabajado:",
+      "blogTitle": "Blog",
+      "blogSubtitle": "Últimos artículos:",
+      "workingPrinciplesTitle": "Cómo puedo brindarte valor",
+      "workingPrinciplesSubtitle": "Como defensor del desarrollador, desarrollador full stack y desarrollador independiente, me enfoco en:",
+      "principle1": "Diseño centrado en el usuario",
+      "principle2": "Código eficiente y fácil de mantener",
+      "principle3": "Aprendizaje y adaptación constantes",
+      "skillsTitle": "Habilidades técnicas",
+      "skillsSubtitle": "Aquí hay algunas tecnologías con las que he trabajado:"
+    }
+  }
+  
